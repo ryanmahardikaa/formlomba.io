@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-image: url(https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?w=1060&t=st=1689679779~exp=1689680379~hmac=688cfa6219ba764ebd2a3957331f5a6d542e1e0cc2dfaf4c47bda1c1fd45adcf);
+  background-size: cover;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+  padding-top: 1rem;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.imageLogo {
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+}
